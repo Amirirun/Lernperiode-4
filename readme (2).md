@@ -10,8 +10,8 @@
 
 ## 14.2: Explorativer Wegwerf-Prototyp
 
-- [ ] Verschiedene Projekte anschauen und auf Youtube gucken wie schwierig diese sind.
-- [ ] Einfach mal anfangen etwas zu programmieren
+- [ x ] Verschiedene Projekte anschauen und auf Youtube gucken wie schwierig diese sind.
+- [ x ] Einfach mal anfangen etwas zu programmieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
 Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedanken gemacht über das Projekt, welches ich in der nächsten Woche anfangen werde. Zuerst hatte ich die Idee Mensch äger dich nicht zu programmieren. Dann habe ich es angefangen zu programmieren aber gemerkt, das es nichts für mich ist. Jetzt habe ich mir für ein Programm entschieden, welches "Spieleparadies" heissen soll, bei dem man zwischen verschiedenen Minigames wie Tetris oder Pingpong wechseln kann.
