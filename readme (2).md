@@ -19,17 +19,23 @@ Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedank
 
 ## 21.2: Explorativer Wegwerf-Prototyp
 
-- [ ] Plan zeichnen (für strukturiertes Vorgehen)
-- [ ] Mich für erstes Spiel entscheiden
-- [ ] Anfangen mit dem tatsächlichen programmieren
-- [ ] Startseite programmieren.
+- [ x ] Plan zeichnen (für strukturiertes Vorgehen)
+- [ x ] Mich für erstes Spiel entscheiden
+- [ x ] Anfangen mit dem tatsächlichen programmieren
+- [ x ] Startseite programmieren.
 
 ✍️ Heute habe ich... (50-100 Wörter)
+ angefangen die Startseite des Spieleparadieses zu bauen. Ich habe zuerst eine Wilkommensseite gebaut, wenn man dort dann auf start drückt kommt man in die Spielebibliothek. Man kann dann jeweils auf die einzelnen Games kicken. Das die Games dann auch vorhanden sind programmiere ich nächstes mal.
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 28.2: Kern-Funktionalität
 
+- [ ] Tictactoe weiterprogrammieren
+- [ ] Tictactoe fertigstellen
+- [ ] Neue Spiele in die Bibliothek einfügen
+- [ ] Neues Spiel anfangen zu programmieren
 ## 7.3: Kern-Funktionalität
 
 ## 14.3: Architektur ausbauen
