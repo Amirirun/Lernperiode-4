@@ -32,11 +32,22 @@ Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedank
 
 ## 28.2: Kern-Funktionalität
 
-- [ ] Tictactoe weiterprogrammieren
+- [x] Tictactoe weiterprogrammieren
 - [ ] Tictactoe fertigstellen
-- [ ] Neue Spiele in die Bibliothek einfügen
-- [ ] Neues Spiel anfangen zu programmieren
+- [x] Neue Spiele in die Bibliothek einfügen
+- [x] Tictactoe anfangen zu programmieren
+
+Heute habe ich angefangen Tictactoe zu programmieren. Leider hatte ich immer wieder sehr viele Probleme und musste
+mehrmals von vorne anfagen, was mich ziemlich viel Zeit gekostet hat. Jedoch konnte ich eine Menge aus meinen Fehlern lernen.
 ## 7.3: Kern-Funktionalität
+
+- [ ] Spieler Programmieren Tictactoe
+- [ ] Spielanzeige programmieren
+- [x] Mit neuem Spiel beginnen
+- [x] Neues Spiel in die Bibliothek einfügen ( noch nicht sicher welches es wird)
+
+
+
 
 ## 14.3: Architektur ausbauen
 
