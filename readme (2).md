@@ -41,15 +41,22 @@ Heute habe ich angefangen Tictactoe zu programmieren. Leider hatte ich immer wie
 mehrmals von vorne anfagen, was mich ziemlich viel Zeit gekostet hat. Jedoch konnte ich eine Menge aus meinen Fehlern lernen.
 ## 7.3: Kern-Funktionalität
 
-- [ ] Spieler Programmieren Tictactoe
-- [ ] Spielanzeige programmieren
-- [x] Mit neuem Spiel beginnen
-- [x] Neues Spiel in die Bibliothek einfügen ( noch nicht sicher welches es wird)
+- [x] x programmieren sodass es sich in die Kästchen einsetzten lässt 
+- [x] o programmieren sodass es sich in die Kästchen einsetzten lässt 
+- [x] alle kästchen können gefüllt werden
+- [ ] Den restart button programmieren
+
+Heute habe ich die (x;o) buttons fertig programmmiert und das Design verbessert, was gut funktioniert hat. Zwischendurch hatte ich einen Fehler, jedoch konnte ich diesen mit chatgpt lösen
 
 
 
 
 ## 14.3: Architektur ausbauen
+- [ ] Gewinner und Verlierer lässt sich festlegen und es wird angezeigt wer gewonnen hat
+- [ ] Restart Button funktionsfähig machen (ohne Fehler programmieren)
+- [ ] Design verbessern und Schriftart festlegen
+- [ ] Den restart button programmieren
+
 
 ## 21.3: Architektur ausbauen
 
