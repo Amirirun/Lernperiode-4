@@ -52,18 +52,18 @@ Heute habe ich die (x;o) buttons fertig programmmiert und das Design verbessert,
 
 
 ## 14.3: Architektur ausbauen
-- [x] Gewinner und Verlierer lässt sich festlegen und es wird angezeigt wer gewonnen hat
-- [x] Restart Button funktionsfähig machen (ohne Fehler programmieren)
-- [x] Design verbessern und Schriftart festlegen
-- [X] Anzeigen welcher Spieler am Zug ist
+- [ x ] Gewinner und Verlierer lässt sich festlegen und es wird angezeigt wer gewonnen hat
+- [ x ] Restart Button funktionsfähig machen (ohne Fehler programmieren)
+- [ x ] Design verbessern und Schriftart festlegen
+- [ X ] Anzeigen welcher Spieler am Zug ist
 
 Heute habe ich die Gewinner und verlier programmiert sowie den restart Button und das Design verbessert. Bei der Gewinneranzeige gibt es noch ein kleines Problem welches ich nächsten mal beheben möchte.
 ## 21.3: Architektur ausbauen
 
-- [ ] Restart Button (Fehlerbehebung)
-- [ ] Startseiten Design ausbauen
-- [ ] Anleitung für tictactoe hinzufügen
-- [ ] Ganzes Programm nocheinmal durchtesten und auch Fehler kontrollieren
+- [ x ]  Restart Button (Fehlerbehebung)
+- [ x ] Startseiten Design ausbauen
+- [ x ] Anleitung für tictactoe hinzufügen
+- [ x ] Ganzes Programm nocheinmal durchtesten und auch Fehler kontrollieren
 
 ## 28.3: Auspolieren
 
