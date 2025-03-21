@@ -32,19 +32,19 @@ Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedank
 
 ## 28.2: Kern-Funktionalität
 
-- [x] Tictactoe weiterprogrammieren
-- [ ] Tictactoe fertigstellen
-- [x] Neue Spiele in die Bibliothek einfügen
-- [x] Tictactoe anfangen zu programmieren
+- [ x ] Tictactoe weiterprogrammieren
+- [  ] Tictactoe fertigstellen
+- [ x ] Neue Spiele in die Bibliothek einfügen
+- [ x ] Tictactoe anfangen zu programmieren
 
 Heute habe ich angefangen Tictactoe zu programmieren. Leider hatte ich immer wieder sehr viele Probleme und musste
 mehrmals von vorne anfagen, was mich ziemlich viel Zeit gekostet hat. Jedoch konnte ich eine Menge aus meinen Fehlern lernen.
 ## 7.3: Kern-Funktionalität
 
-- [x] x programmieren sodass es sich in die Kästchen einsetzten lässt 
-- [x] o programmieren sodass es sich in die Kästchen einsetzten lässt 
-- [x] alle kästchen können gefüllt werden
-- [ ] Den restart button programmieren
+- [ x ] x programmieren sodass es sich in die Kästchen einsetzten lässt 
+- [ x ] o programmieren sodass es sich in die Kästchen einsetzten lässt 
+- [ x ] alle kästchen können gefüllt werden
+- [   ] Den restart button programmieren
 
 Heute habe ich die (x;o) buttons fertig programmmiert und das Design verbessert, was gut funktioniert hat. Zwischendurch hatte ich einen Fehler, jedoch konnte ich diesen mit chatgpt lösen
 
