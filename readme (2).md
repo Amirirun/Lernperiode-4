@@ -65,6 +65,8 @@ Heute habe ich die Gewinner und verlier programmiert sowie den restart Button un
 - [ x ] Anleitung für tictactoe hinzufügen
 - [ x ] Ganzes Programm nocheinmal durchtesten und auch Fehler kontrollieren
 
+  Heute habe ich den Restart Fehler behoben, danach habe ich das ganze Programm nochmal durchgetestet und auf Fehler überprüft und ein paar Sachen ausgebaut. Zum Schluss habe ich noch eine Anleitug hinzugefügt und das Startseiten Design verbessert.
+
 ## 28.3: Auspolieren
 
 ## 4.4: Auspolieren & Abschluss
