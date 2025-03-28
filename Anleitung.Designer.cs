@@ -44,9 +44,12 @@
             // 
             // button1
             // 
-            button1.Location = new Point(911, 155);
+            button1.Font = new Font("Showcard Gothic", 9F, FontStyle.Bold | FontStyle.Italic | FontStyle.Underline, GraphicsUnit.Point, 0);
+            button1.ForeColor = SystemColors.HotTrack;
+            button1.Image = Properties.Resources.starry_galaxy_5k_5120x2880;
+            button1.Location = new Point(895, 60);
             button1.Name = "button1";
-            button1.Size = new Size(225, 69);
+            button1.Size = new Size(277, 114);
             button1.TabIndex = 1;
             button1.Text = "back";
             button1.UseVisualStyleBackColor = true;

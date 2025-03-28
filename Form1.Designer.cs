@@ -37,9 +37,12 @@
             // button1
             // 
             button1.BackColor = SystemColors.ButtonFace;
-            button1.Location = new Point(722, 347);
+            button1.Font = new Font("Showcard Gothic", 9F, FontStyle.Bold | FontStyle.Italic | FontStyle.Underline, GraphicsUnit.Point, 0);
+            button1.ForeColor = SystemColors.ControlLightLight;
+            button1.Image = (Image)resources.GetObject("button1.Image");
+            button1.Location = new Point(647, 298);
             button1.Name = "button1";
-            button1.Size = new Size(170, 106);
+            button1.Size = new Size(245, 149);
             button1.TabIndex = 0;
             button1.Text = "Start";
             button1.UseVisualStyleBackColor = false;
@@ -48,9 +51,10 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(2, -13);
+            pictureBox1.Location = new Point(-1, -12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(1523, 810);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;

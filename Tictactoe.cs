@@ -13,11 +13,18 @@ namespace Gamingconsole
 {
     public partial class Tictactoe : Form
     {
+        
         enum PlayerTurn { None, Player1, Player2 }
         enum Winner { None, Player1, Player2, Draw }
 
         PlayerTurn turn;
         Winner winner;
+        System.Windows.Forms.Timer hideTimer = new System.Windows.Forms.Timer();
+        
+
+
+
+
 
         void OnNewGame()
 
@@ -37,6 +44,7 @@ namespace Gamingconsole
                 p.Image = null;
             turn = PlayerTurn.Player1;
             winner = Winner.None;
+          
             ShowTurn();
         }
 
@@ -44,23 +52,23 @@ namespace Gamingconsole
 
         Winner GetWinner()
         {
-            
+
             int[][] winPatterns = new int[][]
             {
-        // Reihen
-        new int[] {0, 1, 2},
-        new int[] {3, 4, 5},
-        new int[] {6, 7, 8},
-        // Spalten
-        new int[] {0, 3, 6},
-        new int[] {1, 4, 7},
-        new int[] {2, 5, 8},
-        // Diagonalen
-        new int[] {0, 4, 8},
-        new int[] {2, 4, 6}
+                // Reihen
+                new int[] {0, 1, 2},
+                new int[] {3, 4, 5},
+                new int[] {6, 7, 8},
+                // Spalten
+                new int[] {0, 3, 6},
+                new int[] {1, 4, 7},
+                new int[] {2, 5, 8},
+                // Diagonalen
+                new int[] {0, 4, 8},
+                new int[] {2, 4, 6}
             };
 
-           
+
             PictureBox[] allPictures = {
         pictureBox0, pictureBox1, pictureBox2,
         pictureBox3, pictureBox4, pictureBox5,
@@ -83,12 +91,15 @@ namespace Gamingconsole
                 }
             }
 
-           
+
             foreach (var p in allPictures)
             {
                 if (p.Image == null)
                     return Winner.None;
             }
+
+
+
 
             return Winner.Draw;
         }
@@ -108,25 +119,40 @@ namespace Gamingconsole
 
                 case Winner.Player1:
                     status = "Player 1 Wins!";
+              
+                    pictureBox10.Visible = true;
+                    hideTimer.Start();
                     break;
 
                 case Winner.Player2:
                     status = "Player 2 Wins!";
+                    
+                    pictureBox10.Visible = true;
+                    hideTimer.Start();
                     break;
 
                 case Winner.Draw:
                     status = "Well, no one wins this time!";
+                    
+                    pictureBox10.Visible = true;
+                    hideTimer.Start();
                     break;
             }
 
             lblStatus.Text = status;
- 
+
+        }
+        private void HidePictureBox10(object sender, EventArgs e)
+        {
+            pictureBox10.Visible = false;
+            hideTimer.Stop();
         }
         public Tictactoe()
         {
             InitializeComponent();
-
-
+            pictureBox10.Visible = false;
+            hideTimer.Interval = 5300;
+            hideTimer.Tick += HidePictureBox10;
 
 
         }
@@ -152,7 +178,7 @@ namespace Gamingconsole
             PictureBox p = sender as PictureBox;
 
             if (p.Image != null || winner != Winner.None)
-                return; 
+                return;
 
             if (turn == PlayerTurn.Player1)
                 p.Image = player1.Image;
@@ -183,15 +209,10 @@ namespace Gamingconsole
                                          MessageBoxIcon.Question);
 
             if (result == DialogResult.Yes)
-            OnNewGame();
+                OnNewGame();
         }
 
         private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void player1_Click(object sender, EventArgs e)
         {
 
         }
@@ -211,6 +232,19 @@ namespace Gamingconsole
             OnNewGame();
         }
 
+        private void player2_Click(object sender, EventArgs e)
+        {
 
+        }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

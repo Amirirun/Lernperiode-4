@@ -47,6 +47,7 @@
             player1 = new PictureBox();
             player2 = new PictureBox();
             pictureBox9 = new PictureBox();
+            pictureBox10 = new PictureBox();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
@@ -60,6 +61,7 @@
             ((System.ComponentModel.ISupportInitialize)player1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)player2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox9).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox10).BeginInit();
             SuspendLayout();
             // 
             // groupBox1
@@ -235,13 +237,12 @@
             // 
             // player1
             // 
-            player1.Image = Properties.Resources.tictactoe_x_120;
+            player1.Image = (Image)resources.GetObject("player1.Image");
             player1.Location = new Point(84, 421);
             player1.Name = "player1";
             player1.Size = new Size(112, 112);
             player1.TabIndex = 6;
             player1.TabStop = false;
-            player1.Click += player1_Click;
             // 
             // player2
             // 
@@ -251,22 +252,35 @@
             player2.Size = new Size(112, 112);
             player2.TabIndex = 7;
             player2.TabStop = false;
+            player2.Click += player2_Click;
             // 
             // pictureBox9
             // 
             pictureBox9.Image = Properties.Resources.starry_galaxy_5k_5120x2880;
-            pictureBox9.Location = new Point(-7, 244);
+            pictureBox9.Location = new Point(-89, 92);
             pictureBox9.Name = "pictureBox9";
             pictureBox9.Size = new Size(5120, 2880);
             pictureBox9.SizeMode = PictureBoxSizeMode.AutoSize;
             pictureBox9.TabIndex = 8;
             pictureBox9.TabStop = false;
             // 
+            // pictureBox10
+            // 
+            pictureBox10.Image = (Image)resources.GetObject("pictureBox10.Image");
+            pictureBox10.Location = new Point(1, 3);
+            pictureBox10.Name = "pictureBox10";
+            pictureBox10.Size = new Size(1081, 957);
+            pictureBox10.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox10.TabIndex = 9;
+            pictureBox10.TabStop = false;
+            pictureBox10.Click += pictureBox10_Click;
+            // 
             // Tictactoe
             // 
             AutoScaleDimensions = new SizeF(20F, 48F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1062, 969);
+            Controls.Add(pictureBox10);
             Controls.Add(player2);
             Controls.Add(player1);
             Controls.Add(btnNewGame);
@@ -292,6 +306,7 @@
             ((System.ComponentModel.ISupportInitialize)player1).EndInit();
             ((System.ComponentModel.ISupportInitialize)player2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox9).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox10).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -316,5 +331,6 @@
         private PictureBox player1;
         private PictureBox player2;
         private PictureBox pictureBox9;
+        private PictureBox pictureBox10;
     }
 }

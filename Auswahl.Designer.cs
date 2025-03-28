@@ -49,7 +49,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.OIP__1_;
-            pictureBox1.Location = new Point(-5, 2);
+            pictureBox1.Location = new Point(-8, -4);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(1151, 677);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
