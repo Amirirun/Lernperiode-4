@@ -69,10 +69,17 @@ Heute habe ich die Gewinner und verlier programmiert sowie den restart Button un
 
 ## 28.3: Auspolieren
 
-- [   ]  Schrift anpassen
-- [   ]  Eigenes neues Bilddesign erstellen ( Für x und O)
-- [   ] Anleitung für tictactoe fertig bekommen
-- [  ]  Variablen Namen checken und wenn nötig umbennen
+- [ x ]  Schrift anpassen
+- [ x ]  Eigenes neues Bilddesign erstellen ( Für x und O mit paint)
+- [ x ] Anleitung für tictactoe fertig bekommen
+- [ x ]  Gifs hinzufügen( Beim Start und 
+
+Ich habe heute meine TicTacToe-App weiterentwickelt. Ich habe die Schrift angepasst, eigene X- und O-Bilder mit Paint gestaltet und ein neues Design eingebaut. Außerdem habe ich eine Anleitung für das Spiel geschrieben und GIFs eingebunden, die z. B. beim Spielende kurz angezeigt werden. Insgesamt habe ich viel am Aussehen und der Benutzererfahrung gearbeitet.
 
 ## 4.4: Auspolieren & Abschluss
+
+- [   ]  Code polieren
+- [   ]  Ganzes github ( Lernperiode 4 auf Rechtschreibung usw prüfen)
+
+Beschreibung hinzufügen!!!
 
