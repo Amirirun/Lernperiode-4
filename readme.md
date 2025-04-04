@@ -14,7 +14,7 @@
 - [ x ] Einfach mal anfangen etwas zu programmieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
-Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedanken gemacht über das Projekt, welches ich in der nächsten Woche anfangen werde. Zuerst hatte ich die Idee Mensch äger dich nicht zu programmieren. Dann habe ich es angefangen zu programmieren aber gemerkt, das es nichts für mich ist. Jetzt habe ich mir für ein Programm entschieden, welches "Spieleparadies" heissen soll, bei dem man zwischen verschiedenen Minigames wie Tetris oder Pingpong wechseln kann.
+Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedanken gemacht über das Projekt, welches ich in der nächsten Woche anfangen werde. Zuerst hatte ich die Idee Mensch äger dich nicht zu programmieren. Dann habe ich es angefangen zu programmieren aber gemerkt, das es nichts für mich ist. Jetzt habe ich mir für ein Programm entschieden, welches "Gamingconsole" heissen soll, bei dem man zwischen verschiedenen Minigames wie Tetris oder Pingpong wechseln kann.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 21.2: Explorativer Wegwerf-Prototyp
@@ -78,8 +78,10 @@ Ich habe heute meine TicTacToe-App weiterentwickelt. Ich habe die Schrift angepa
 
 ## 4.4: Auspolieren & Abschluss
 
-- [   ]  Code polieren
-- [   ]  Ganzes github ( Lernperiode 4 auf Rechtschreibung usw prüfen)
+- [ x ]  Code polieren
+- [ x ]  Ganzes github ( Lernperiode 4 auf Rechtschreibung usw prüfen)
 
-Beschreibung hinzufügen!!!
+  Heute habe ich nochmal meinen Code poliert und das Github ausgebessert
+
+In dieser Lernperiode habe ich gelernt, wie man mit Windows Forms ein Spiel wie TicTacToe von Grund auf programmiert. Ich habe verstanden, wie man Spiellogik richtig aufbaut, mit Bildern (X und O) arbeitet und wie man den Spielstatus (z. B. Gewinner anzeigen) verwaltet. Außerdem habe ich gelernt, wie man einen Restart-Button ohne Fehler umsetzt, eine kleine Anleitung einbaut und sogar mit GIFs arbeitet, um das Ganze optisch cooler zu machen. Fehler zu finden und zu beheben hat mich auch weitergebracht.
 
