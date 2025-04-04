@@ -210,7 +210,7 @@
             label3.TabIndex = 3;
             label3.Text = "TIC TAC TOE";
             label3.TextAlign = ContentAlignment.MiddleCenter;
-            label3.Click += label3_Click;
+            
             // 
             // lblStatus
             // 
@@ -222,7 +222,7 @@
             lblStatus.TabIndex = 4;
             lblStatus.Text = "STATUS GOES HERE";
             lblStatus.TextAlign = ContentAlignment.MiddleCenter;
-            lblStatus.Click += lblStatus_Click;
+            
             // 
             // btnNewGame
             // 
@@ -252,7 +252,7 @@
             player2.Size = new Size(112, 112);
             player2.TabIndex = 7;
             player2.TabStop = false;
-            player2.Click += player2_Click;
+           
             // 
             // pictureBox9
             // 
@@ -273,7 +273,7 @@
             pictureBox10.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox10.TabIndex = 9;
             pictureBox10.TabStop = false;
-            pictureBox10.Click += pictureBox10_Click;
+            
             // 
             // Tictactoe
             // 

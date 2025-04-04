@@ -118,25 +118,24 @@ namespace Gamingconsole
                     break;
 
                 case Winner.Player1:
-                    status = "Player 1 Wins!";
+                                    status = "Player 1 Wins!";
               
-                    pictureBox10.Visible = true;
-                    hideTimer.Start();
-                    break;
+                                    pictureBox10.Visible = true;
+                                    hideTimer.Start();
+                                    break;
 
                 case Winner.Player2:
-                    status = "Player 2 Wins!";
+                                    status = "Player 2 Wins!";
                     
-                    pictureBox10.Visible = true;
-                    hideTimer.Start();
-                    break;
+                                    pictureBox10.Visible = true;
+                                    hideTimer.Start();
+                                    break;
 
                 case Winner.Draw:
-                    status = "Well, no one wins this time!";
-                    
-                    pictureBox10.Visible = true;
-                    hideTimer.Start();
-                    break;
+                                    status = "Well, no one wins this time!";
+                                    pictureBox10.Visible = true;
+                                    hideTimer.Start();
+                                    break;
             }
 
             lblStatus.Text = status;
@@ -212,39 +211,19 @@ namespace Gamingconsole
                 OnNewGame();
         }
 
-        private void label3_Click(object sender, EventArgs e)
-        {
+        
+        
 
-        }
-
-        private void lblStatus_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Tictactoe_Load(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private void Form1_Load(object sender, EventArgs e)
         {
             OnNewGame();
         }
 
-        private void player2_Click(object sender, EventArgs e)
-        {
+       
+       
 
-        }
 
-        private void pictureBox9_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox10_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
