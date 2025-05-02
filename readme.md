@@ -10,7 +10,7 @@
 
 ## 14.2: Explorativer Wegwerf-Prototyp
 
-- [ x ] Verschiedene Projekte anschauen und auf YouTube gucken, wie schwierig diese sind.
+- [x] Verschiedene Projekte anschauen und auf YouTube gucken, wie schwierig diese sind.
 - [ x ] Einfach mal anfangen, etwas zu programmieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
