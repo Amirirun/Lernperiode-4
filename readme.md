@@ -3,7 +3,10 @@
 14.2 bis 4.4
 
 ## fertiges Projekt
+![Unbenanntes Video – Mit Clipchamp erstellt (1)](https://github.com/user-attachments/assets/61cdfd0c-69fd-4103-8c50-c4510844b802)
 
+## Reflexion
+In dieser Lernperiode habe ich gelernt, wie man mit Windows Forms ein Spiel wie TicTacToe von Grund auf programmiert. Ich habe verstanden, wie man Spiellogik richtig aufbaut, mit Bildern (X und O) arbeitet und wie man den Spielstatus (z. B. Gewinner anzeigen) verwaltet. Ausserdem habe ich gelernt, wie man einen Restart-Button ohne Fehler umsetzt, eine kleine Anleitung einbaut und sogar mit GIFs arbeitet, um das Ganze optisch cooler zu machen. Fehler zu finden und zu beheben, hat mich auch weitergebracht. 
 
 
 ## Grob-Planung
@@ -17,9 +20,9 @@
 - [x] Verschiedene Projekte anschauen und auf YouTube gucken, wie schwierig diese sind.
 - [ x ] Einfach mal anfangen, etwas zu programmieren
 
-✍️ Heute habe ich... (50-100 Wörter)
+
 Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedanken gemacht über das Projekt, welches ich in der nächsten Woche anfangen werde. Zuerst hatte ich die Idee, Mensch äger dich nicht zu programmieren. Dann habe ich es angefangen zu programmieren, aber gemerkt, dass es nichts für mich ist. Jetzt habe ich mir für ein Programm entschieden, welches "Gamingconsole" heissen soll, bei dem man zwischen verschiedenen Minigames wie Tetris oder Pingpong wechseln kann.
-☝️ Vergessen Sie nicht, bis einen ersten Code auf GitHub hochzuladen
+
 
 ## 21.2: Explorativer Wegwerf-Prototyp
 
@@ -28,11 +31,11 @@ Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedank
 - [ x ] Anfangen mit dem tatsächlichen programmieren
 - [ x ] Startseite programmieren.
 
-✍️ Heute habe ich... (50-100 Wörter)
+
  angefangen die Startseite des Spielerparadieses zu bauen. Ich habe zuerst eine Willkommensseite gebaut, wenn man dort dann auf Start drückt, kommt man in die Spielbibliothek. Man kann dann jeweils auf die einzelnen Games kicken. Dass die Games dann auch vorhanden sind, programmiere ich nächstes Mal.
 
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 ## 28.2: Kern-Funktionalität
 
@@ -85,7 +88,6 @@ Ich habe heute meine TicTacToe-App weiterentwickelt. Ich habe die Schrift angepa
 - [ x ] Code polieren
 - [ x ] Ganzes GitHub ( Lernperiode 4 auf Rechtschreibung usw. prüfen)
 
-  Heute habe ich nochmal meinen Code poliert und das Github ausgebessert
+  
 
-In dieser Lernperiode habe ich gelernt, wie man mit Windows Forms ein Spiel wie TicTacToe von Grund auf programmiert. Ich habe verstanden, wie man Spiellogik richtig aufbaut, mit Bildern (X und O) arbeitet und wie man den Spielstatus (z. B. Gewinner anzeigen) verwaltet. Ausserdem habe ich gelernt, wie man einen Restart-Button ohne Fehler umsetzt, eine kleine Anleitung einbaut und sogar mit GIFs arbeitet, um das Ganze optisch cooler zu machen. Fehler zu finden und zu beheben, hat mich auch weitergebracht.
-![Unbenanntes Video – Mit Clipchamp erstellt](https://github.com/user-attachments/assets/3ecb26cf-3157-4e07-aeac-9bf4c5526ed3)
+
