@@ -2,6 +2,10 @@
 
 14.2 bis 4.4
 
+## fertiges Projekt
+
+
+
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
