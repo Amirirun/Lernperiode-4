@@ -32,10 +32,10 @@ Heute habe ich mich erstmal ein bisschen ausprobiert und mir tiefgründig Gedank
 
 ## 28.2: Kern-Funktionalität
 
-- [ x ] Tictactoe weiterprogrammieren
-- [  ] Tictactoe fertigstellen
-- [ x ] Neue Spiele in die Bibliothek einfügen
 - [ x ] Tictactoe anfangen zu programmieren
+- [ x ] Tictactoe Grobes Design festlegen
+- [ x ] Neue Spiele in die Bibliothek einfügen
+- [ x ] Mich über alle benötigten Funktionen informieren
 
 Heute habe ich angefangen Tictactoe zu programmieren. Leider hatte ich immer wieder sehr viele Probleme und musste
 mehrmals von vorne anfagen, was mich ziemlich viel Zeit gekostet hat. Jedoch konnte ich eine Menge aus meinen Fehlern lernen.
