@@ -84,4 +84,5 @@ Ich habe heute meine TicTacToe-App weiterentwickelt. Ich habe die Schrift angepa
   Heute habe ich nochmal meinen Code poliert und das Github ausgebessert
 
 In dieser Lernperiode habe ich gelernt, wie man mit Windows Forms ein Spiel wie TicTacToe von Grund auf programmiert. Ich habe verstanden, wie man Spiellogik richtig aufbaut, mit Bildern (X und O) arbeitet und wie man den Spielstatus (z. B. Gewinner anzeigen) verwaltet. Außerdem habe ich gelernt, wie man einen Restart-Button ohne Fehler umsetzt, eine kleine Anleitung einbaut und sogar mit GIFs arbeitet, um das Ganze optisch cooler zu machen. Fehler zu finden und zu beheben hat mich auch weitergebracht.
+![Unbenanntes Video – Mit Clipchamp erstellt](https://github.com/user-attachments/assets/3ecb26cf-3157-4e07-aeac-9bf4c5526ed3)
 
