@@ -1,4 +1,4 @@
-<img width="426" height="240" alt="439833121-61cdfd0c-69fd-4103-8c50-c4510844b802" src="https://github.com/user-attachments/assets/354ee0c1-1877-4ebe-9adc-2609f9ef9017" />
+
 # Lern-Periode 4
 
 14.2 bis 4.4
